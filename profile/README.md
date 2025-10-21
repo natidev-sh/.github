@@ -220,7 +220,7 @@ Generate interactive dashboards and analytics platforms with real-time data visu
 
 ## 🎯 Roadmap
 
-### 🚀 Current Focus (Q4 2024)
+### 🚀 Current Focus (Q4 2025)
 
 - [x] Premium design system overhaul
 - [x] Enhanced app list with animations
@@ -230,7 +230,7 @@ Generate interactive dashboards and analytics platforms with real-time data visu
 - [ ] Plugin marketplace
 - [ ] Multi-language support
 
-### 🔮 Future Plans (2025)
+### 🔮 Future Plans (2026)
 
 - Mobile companion app
 - Browser-based version
