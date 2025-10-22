@@ -253,7 +253,8 @@ Generate interactive dashboards and analytics platforms with real-time data visu
   <tr>
     <td align="center">
       <img src="https://raw.githubusercontent.com/natidev-sh/naticloth/refs/heads/main/screenshots/NatiCloth.png" alt="Project 1"/><br/>
-      <b>[NatiCloth](https://naticloth.vercel.app)</b><br/>
+      [NatiCloth](https://naticloth.vercel.app)
+      <br/>
       <sub>Full-stack Next.js app</sub>
     </td>
     <td align="center">
