@@ -252,7 +252,7 @@ Generate interactive dashboards and analytics platforms with real-time data visu
 <table>
   <tr>
     <td align="center">
-      <img src="https://via.placeholder.com/200x150?text=Project+1" alt="Project 1"/><br/>
+      <img src="https://raw.githubusercontent.com/natidev-sh/naticloth/refs/heads/main/screenshots/NatiCloth.png" alt="Project 1"/><br/>
       <b>E-Commerce Platform</b><br/>
       <sub>Full-stack Next.js app</sub>
     </td>
