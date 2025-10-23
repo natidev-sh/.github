@@ -11,7 +11,7 @@
 [![GitHub Stars](https://img.shields.io/github/stars/natidev-sh/nati?style=social)](https://github.com/natidev-sh/nati)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/natidev-sh/nati/blob/main/LICENSE)
 
-[Website](https://natiweb.vercel.app) • [Documentation](https://natiweb.vercel.app/docs) • [Discord](https://discord.gg/nati) • [Blog](https://natiweb.vercel.app/blog)
+[Website](https://natiweb.vercel.app) • [Documentation](https://natiweb.vercel.app/docs) • [Discord](https://discord.gg/invite/d9jajsdrWn) • [Blog](https://natiweb.vercel.app/blog)
 
 <img src="https://raw.githubusercontent.com/natidev-sh/natiweb/50acf5ca1ab52378e89fff8c6eb602a7680ba76c/public/assets/screenshots/github-hero.png" alt="Nati Hero" width="800"/>
 
