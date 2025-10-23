@@ -6,7 +6,7 @@
 
 *Build production-ready AI applications in minutes, not months*
 
-[![Discord](https://img.shields.io/discord/YOUR_DISCORD_ID?color=7289da&label=Discord&logo=discord&logoColor=white)](https://discord.gg/invite/d9jajsdrWn)
+[![Discord](https://img.shields.io/discord/143030905446756384?color=7289da&label=Discord&logo=discord&logoColor=white)](https://discord.gg/invite/d9jajsdrWn)
 [![Twitter Follow](https://img.shields.io/twitter/follow/natidev_sh?style=social)](https://twitter.com/natidev_sh)
 [![GitHub Stars](https://img.shields.io/github/stars/natidev-sh/nati?style=social)](https://github.com/natidev-sh/nati)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/natidev-sh/nati/blob/main/LICENSE)
